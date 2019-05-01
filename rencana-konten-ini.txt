@@ -2,13 +2,14 @@ RENCANA KONTEN INI
 
 - Bimbingan Bab 3
   * Pengertian Aplikasi
-  * Daftar Pustaka PDF
+  * Daftar Pustaka PD
     ^ Lampiran Gambar
     ^ Referensi Link
 - Pengertian Sistem
 - Persiapan pembuatan laporan
   ^ Revisi Bab III
 - Membuat Bab IV
+  ^ Akhir Laporan
 - Sidang Pkl
 - Presentasi Laporan
 - Membuat Bab V
